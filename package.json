@@ -1,0 +1,19 @@
+{
+  "name": "@types/sequelize",
+  "version": "4.0.75",
+  "description": "sequelize types",
+  "author": "Preben",
+  "dependencies": {
+    "@types/bluebird": "*",
+    "@types/lodash": "*",
+    "@types/validator": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milewise/node-soap.git"
+  },
+  "main": "",
+  "scripts": {},
+  "license": "MIT",
+  "devDependencies": {}
+}
